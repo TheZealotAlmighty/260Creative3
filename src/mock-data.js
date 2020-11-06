@@ -17,7 +17,7 @@ let mock = [
         age: "16",
         affiliation: "Party",
         description: "A young girl whose town gets destroyed by a bunch of demon cultists.  She " +
-            "the player character near the start of the game, hoping to get help from the Inquisition " +
+            "meets the player character near the start of the game, hoping to get help from the Inquisition " +
             "to prevent demon cultists from destroying other villages."
     },
     {
@@ -196,3 +196,5 @@ let mock = [
             "and know everything."
     }
 ]
+
+export default mock;
